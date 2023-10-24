@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko"
 title                    : "ParkSeungJae"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Park Seung Jae"
   avatar           : "/assets/images/logo.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "hi."
-  location         : "South Korea"
+  bio              : "안녕하세요."
+  location         : "대한민국"
   email            : "tmd0915mp@naver.com"
   links:
     - label: "Email"
