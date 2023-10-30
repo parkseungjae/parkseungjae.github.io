@@ -3,11 +3,11 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #f5f5ea !default;  /* #eeeeee */
-$text-color: #222831 !default;
-$muted-text-color: #393e46 !default;
-$primary-color: #f5f5ea !default;         /* #0092ca */
-$border-color: mix(#f5f5ea, #f5f5ea, 75%) !default;
+$background-color: #393e46 !default;  /* #eeeeee */
+$text-color: #ffffff !default;
+$muted-text-color: #f5f5ea !default;
+$primary-color: #5cb8cf !default;         /* #0092ca */
+$border-color: mix(#5cb8cf, #393e46, 75%) !default;
 $footer-background-color: $primary-color !default;
 $link-color: #393e46 !default;
 $masthead-link-color: $text-color !default;
@@ -15,7 +15,7 @@ $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#222831, $text-color, 80%) !default;
 
 .page__footer {
-  color: #222831 !important; // override #fff
+  color: #f5f5ea !important; // override #fff
 }
 
 .page__footer-follow .social-icons .svg-inline--fa {
